@@ -3,7 +3,7 @@
 
 
 ## Reference
-A. https://nginx.org/en/docs/
-B. https://nginx.org/en/docs/beginners_guide.html
-C. https://docs.docker.com/engine/reference/builder/#dockerfile-reference
-D. https://github.com/nginxinc/docker-nginx/blob/1f227619c1f1baa0bed8bed844ea614437ff14fb/mainline/debian/Dockerfile#L119
+A. https://nginx.org/en/docs/ <br>
+B. https://nginx.org/en/docs/beginners_guide.html <br>
+C. https://docs.docker.com/engine/reference/builder/#dockerfile-reference <br>
+D. https://github.com/nginxinc/docker-nginx/blob/1f227619c1f1baa0bed8bed844ea614437ff14fb/mainline/debian/Dockerfile#L119 <br>
